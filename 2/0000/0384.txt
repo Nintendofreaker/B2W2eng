@@ -9,26 +9,25 @@ Mom
 ？？？
 Speak
 しんかを おしえて
-ずかんチェック
+Check the pokedex
 Goodbye
 しんかについて しりたいのは\xfffeどの ポケモンかな?
 What's the matter?
 Speak
-なに してる?
+What are you doing?
 Goodbye
 なにか あるのかよ?
 Speak
-タイプを おしえて
-とくせいを おしえて
+Tell me the type of
+Tell me the characteristic of
 Goodbye
-どの タイプに ついて\xfffeせつめい すれば いいのかな?
-どの とくせいに ついて\xfffeせつめい すれば いいのかな?
-なにか ききたいの?
+Which types\xfffeshould I describe?
+Is there any characteristics\xfffeI should describe?
+Want to ask something?
 Speak
 なかよしか みて
 がんばりを みて
 Goodbye
-どのコとの なかを しりたいの?
 \xf000Ā\x0001\x0000と \xf000Ă\x0001\x0001って...\xfffeそんなに なかが よくないんだね\xf000븁\x0000\xfffeいっしょに いても\xfffeあんまり たのしく なさそうだよ\xf000븁\x0000
 \xf000Ā\x0001\x0000と \xf000Ă\x0001\x0001って...\xfffeそんなに なかが よくないんだね\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000のこと\xfffeちょっと こわい めで みてるよ\xf000븁\x0000
 \xf000Ā\x0001\x0000と \xf000Ă\x0001\x0001って...\xfffeまだまだ これからって かんじだね\xf000븁\x0000\xfffeいいなあ! だって これから\xfffeもっと なかよしに なれるんだよ!\xf000븁\x0000
